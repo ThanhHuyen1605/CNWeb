@@ -1,0 +1,4146 @@
+[{
+  "_id": {
+    "$oid": "6586d18d5deceb560bdc412d"
+  },
+  "productName": "GIÀY ADIDAS SUPERSTAR NAM - XANH VÀNG",
+  "description": "<p><i><strong>Giày adidas Superstar</strong></i> mẫu giày sneaker huyền thoại nổi tiếng bậc nhất của adidas. Một mẫu giày bạn không cần phải bận tâm đi lúc nào mà bạn có thể sử dụng ở mọi lúc mọi nơi với mọi trang phục.</p><p>Adidas Superstar với phần upper chất liệu da cao cấp ngày càng được hoàn thiện về chất lượng, mũi giày hình vỏ sò đặc trưng đã thành biểu tượng. Đế giày cao su chất lượng cao được khâu chắc chắn, bền đẹp cùng thời gian.</p><p><i>Giày adidas Superstar</i> tại <i><strong>SHOSEstore</strong></i> được phân phối chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 2390000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc412e"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc412f"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc4130"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc4131"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc4132"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc4133"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586d18d5deceb560bdc4134"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334312/shoes/gidi4eh1yxh07uo1fexx.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334313/shoes/zj2jxmbpokzpn9owhsnb.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334312/shoes/runcx2cy9cxdvnbfxgyj.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334315/shoes/ealilgshktyv0ifqk6ze.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T12:24:45.164Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T12:24:45.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586d3695deceb560bdc49d1"
+  },
+  "productName": "GIÀY ADIDAS TRACEFINDER TRAIL NAM - ĐEN",
+  "description": "<p><i><strong>Giày adidas Tracefinder Trail</strong></i> mẫu giày dã ngoại cao cấp của adidas, với công nghệ và vật liệu tốt nhất adidas Tracefinder giúp bạn chinh phục những quãng đường gồ ghề phức tạp nhất.</p><p>Phần upper của adidas Tracefinder được là từ vải kỹ thuật thoáng khí. Đế giữa công nghệ Lightmotion êm và rất nhẹ. Đế ngoài với công nghệ Traxion giúp tối đa độ bám đường của giày. Với tất cả công nghệ trên, adidas Tracefinder xứng đáng là mẫu giày trail bạn nên có trong các chuyến đi.</p><p>Ngoài ra, hơn 50% vật liệu cấu tạo lên mẫu giày này được làm từ vật liệu thân thiện với môi trường giúp bảo vệ tương lai.</p><p><i>Giày adidas Tracefinder Trail</i> được <i><strong>SHOSEstore</strong></i> nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br><br>&nbsp;</p>",
+  "price": 1790000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c40"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c41"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c42"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c43"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c44"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c45"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586d4405deceb560bdc4c46"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334788/shoes/t2tdavzadcxckhshyui6.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334788/shoes/v62jrcjfuon0ajnrfqlc.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334789/shoes/pqaw3da0z6iqxjnbxusn.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334791/shoes/ky4dncdmh53asyeabwxi.jpg"
+  ],
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "65842b728047f41f078c08ef"
+      },
+      "comment": "ád",
+      "dateCMT": {
+        "$date": "2024-04-25T07:02:43.368Z"
+      },
+      "feedback_Image": [],
+      "_id": {
+        "$oid": "662a0037a4d91d0f610b28f9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-23T12:32:41.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T07:03:19.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586d4135deceb560bdc4b75"
+  },
+  "productName": "GIÀY ADIDAS DURAMO SPEED NAM - TRẮNG",
+  "description": "<p><i><strong>Giày adidas Duramo Speed</strong></i> là mẫu giày thể thao vừa ra mắt của adidas có thiết kế đẹp, công nghệ cao phù hợp cho tất cả mọi người. Chắc chắn adidas Duramo Speed sẽ được rất nhiều người yêu thích và sử dụng.</p><p>Giày adidas Duramo Speed có phần upper được làm từ vải mesh cải tiến, nhẹ và thoáng khí. Phần đế giữa công ghệ LIGHTSTRIKE Full length giúp đôi giày êm và hiệu suất cao hơn. Đế ngoài chất liệu cao su cao cấp bền và chịu mài mòn tốt.</p><p>Ngoài ra, adidas Duramo Speed xứng đáng là sự lựa chọn tuyệt vời bởi mức giá hợp lý.</p><p><i>Giày adidas Duramo Speed</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br><br>&nbsp;</p>",
+  "price": 2090000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b76"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b77"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b78"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b79"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b7a"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b7b"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586d4135deceb560bdc4b7c"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334959/shoes/turmbohuozbw8uuuyh39.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334959/shoes/urlubir6uge2hzfb9svv.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334959/shoes/myib2yp5ks6dpsj4depz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334961/shoes/crxny1c3app8ginbzrmy.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T12:35:31.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T12:35:31.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586f68461d90ebc17a3f8d0"
+  },
+  "productName": "GIÀY ADIDAS GALAXY 6 NỮ - XANH",
+  "description": "<p><i><strong>Giày adidas Galaxy 6</strong></i> &nbsp;có thiết kế thể thao đẹp mắt, đây là mẫu giày có thể sử dụng trong mọi hoạt động hàng ngày. adidas Galaxy 6 có nhiều cải tiến so với adidas Galaxy 5 giúp đôi giày ngày càng hoàn hảo.</p><p>Công nghệ đế CloudFoam của Adidas chưa bao giờ làm Fan hâm mộ của họ thất vọng. Với cảm giác trải nghiệm giống như đi trên ''Mây'' đấy là những gì được người dùng chia sẻ lại. Form dáng thiết kế trẻ trung, khỏe khoắn nên đây sẽ là mẫu giày không thể thiếu cho những hoạt động vui chơi, thể thao. Ngoài ra, adidas Galaxy 6 sử dụng hơn 505 vật liệu tái chế thân thiện với môi trường.</p><p><i>Giày adidas Galaxy 6</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1390000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d1"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d2"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d3"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d4"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d5"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d6"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "6586f68461d90ebc17a3f8d7"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343776/shoes/ocxsleqduubyq08xcapp.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343777/shoes/rmabyzcvaoq034rozrny.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343777/shoes/iwfhexrr2tgnnwq2v1iz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343778/shoes/jhlmcngqmq0gqeckryer.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:02:28.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:02:28.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586f70a61d90ebc17a3fa1f"
+  },
+  "productName": "GIÀY ADIDAS TRACEFINDER TRAIL NỮ - XÁM HỒNG",
+  "description": "<p><i><strong>Giày adidas Tracefinder Trail</strong></i> mẫu giày dã ngoại cao cấp của adidas, với công nghệ và vật liệu tốt nhất adidas Tracefinder giúp bạn chinh phục những quãng đường gồ ghề phức tạp nhất.</p><p>Phần upper của adidas Tracefinder được là từ vải kỹ thuật thoáng khí. Đế giữa công nghệ Lightmotion êm và rất nhẹ. Đế ngoài với công nghệ Traxion giúp tối đa độ bám đường của giày. Với tất cả công nghệ trên, adidas Tracefinder xứng đáng là mẫu giày trail bạn nên có trong các chuyến đi.</p><p>Ngoài ra, hơn 50% vật liệu cấu tạo lên mẫu giày này được làm từ vật liệu thân thiện với môi trường giúp bảo vệ tương lai.</p><p><i>Giày adidas Tracefinder Trail</i> được <i><strong>SHOSEstore</strong></i> nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1990000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa20"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa21"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa22"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa23"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa24"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa25"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "6586f70a61d90ebc17a3fa26"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343910/shoes/zz2rtc39ynqaock6oktv.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343909/shoes/vfioih3cmqsc99tyniht.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343912/shoes/qaeuucbhb0y8mmaev9c8.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703343912/shoes/zqu8parj0ekc2szpx4cf.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:04:42.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:04:42.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586fb6461d90ebc17a4043b"
+  },
+  "productName": "GIÀY ADIDAS ULTRABOOST LIGHT NỮ - HỒNG",
+  "description": "<p><i><strong>Giày adidas Ultraboost Light</strong></i> siêu phẩm giày thể thao mới nhất đến từ nhà adidas, với vật liệu và công nghệ tốt nhất được áp dụng tối đa cho sản này adidas Ultraboost Light xứng đáng trở thành niềm mơ ước của tín đồ giày thể thao chạy bộ.</p><p>Ngoài ra, hơn 50% vật liệu cấu tạo lên mẫu giày này được làm từ vật liệu thân thiện với môi trường giúp bảo vệ tương lai.</p><p>Với tất cả những gì tốt nhất mà adidas đã trang bị trên mẫu Ultraboost Light này, đây chắc chắn sẽ là mẫu giày siêu hot của adidas trong năm nay.</p><p><i>Giày adidas Ultraboost Light</i> tại <i><strong>SHOSEstore </strong></i>được phân phối chính hãng. Full box, đầy đủ phụ kiện.</p>",
+  "price": 3990000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a4043c"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 20,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a4043d"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 22,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a4043e"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 21,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a4043f"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a40440"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a40441"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6586fb6461d90ebc17a40442"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345024/shoes/tkwf5hr2qdu13cyieaxu.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345023/shoes/uale16yyy2b6uo3nr9xy.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345024/shoes/hyq1va64jcgjkv2vxjxk.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345026/shoes/roiegm6gqtwucibmkz4i.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:23:16.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:23:16.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586fc9b61d90ebc17a407a6"
+  },
+  "productName": "GIÀY ADIDAS ULTRABOUNCE NAM - TRẮNG XÁM",
+  "description": "<p><i><strong>Giày Adidas Ultrabounce</strong></i> là mẫu giày thể thao mới nhất của adidas. Với thiết kế trẻ trung, khỏe khoắn, ôm sát bàn chân. Đế giày công nghệ Bounce siêu nhẹ và êm ái giúp bạn di chuyển cả ngày mà không mệt mỏi.</p><p>Ngoài ra, Adidas Ultrabounce còn được làm với hơn 50% vật liệu thân thiện bảo vệ môi trường. Giày Adidas Ultrabounce là một lựa chọn hợp lý cho mọi hoạt động hàng ngày.</p><p><i>Giày Adidas Ultrabounce</i> tại <i><strong>SHOSEstore</strong></i> được phân phối chính hãng. Full box, đầy đủ phụ kiện.</p>",
+  "price": 1990000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 15,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407a7"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 21,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407a8"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407a9"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407aa"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407ab"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407ac"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6586fc9b61d90ebc17a407ad"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345334/shoes/gmrat789vl7wqxfscmcf.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345337/shoes/soaghjpiqqlmqhxobojs.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345335/shoes/fceqjglvosrhf0uwsgwl.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345337/shoes/ukonpbxmjpuc7m9nwbyd.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:28:27.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:28:27.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586fd6361d90ebc17a40b09"
+  },
+  "productName": "GIÀY ADIDAS ULTRABOUNCE NỮ - TRẮNG XANH",
+  "description": "<p><i><strong>Giày Adidas Ultrabounce</strong></i> là mẫu giày thể thao mới nhất của adidas. Với thiết kế trẻ trung, khỏe khoắn, ôm sát bàn chân. Đế giày công nghệ Bounce siêu nhẹ và êm ái giúp bạn di chuyển cả ngày mà không mệt mỏi.</p><p>Ngoài ra, Adidas Ultrabounce còn được làm với hơn 50% vật liệu thân thiện bảo vệ môi trường. Giày Adidas Ultrabounce là một lựa chọn hợp lý cho mọi hoạt động hàng ngày.</p><p><i>Giày Adidas Ultrabounce</i> tại <i><strong>SHOSEstore</strong></i> được phân phối chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1990000,
+  "brand": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0a"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 22,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0b"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0c"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0d"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 13,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0e"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b0f"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6586fd6361d90ebc17a40b10"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345537/shoes/hn8uk3zsgvzqfu9p349j.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345538/shoes/idawbmjieh8feoeuxud4.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345536/shoes/lwnwxkzotkwcimsuij7l.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345537/shoes/yaulwaxcfrbyzmqrgvdn.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:31:47.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:31:47.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586ff0461d90ebc17a4100c"
+  },
+  "productName": "GIÀY CAO GÓT HỞ MŨI AMBROSIA - KEM",
+  "description": "<ul><li>Tạo thêm nét phá cách đầy ấn tượng vào mọi trang phục của bạn với đôi giày cao gót Ambrosia. Không chỉ sở hữu cho mình một gam màu kem nhã nhặn mà với chi tiết dây quai mảnh được đính đá tinh xảo cùng phần gót cao 9cm, đây hứa hẹn sẽ là item hoàn hảo cùng bạn ghi lại những dấu ấn đáng nhớ bất kể mọi dịp.</li><li><i>Giày cao gót hở mũi Ambrosia</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</li></ul>",
+  "price": 1650000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 16,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a4100d"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a4100e"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a4100f"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a41010"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a41011"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a41012"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6586ff0461d90ebc17a41013"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345954/shoes/twzfmyytkoqh2a2josgy.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345954/shoes/ok0tky5mlly6th5jzgbj.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345955/shoes/sfomg5tsf4b3goxwchxn.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703345955/shoes/km3pujlqxr4fc5zlxefn.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:38:44.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:38:44.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587001561d90ebc17a415bf"
+  },
+  "productName": "GIÀY CAO GÓT MŨI TRÒN HESTER - PHẤN",
+  "description": "<p>Khi sở hữu đôi giày đôi giày Hester đồng nghĩa với việc bạn đang sở hữu cho mình một tác phẩm mang tính biểu tượng của phong cách thời trang cổ điển.&nbsp;<br>Lấy cảm hứng từ thiết kế của kiểu giày loafer nổi tiếng, Hester được hoàn thiện từ chất liệu da mềm mại với gam phấn nhã nhặn kết hợp cùng mũi giày vuông tinh tế, chắc chắn sẽ giúp bạn toát lên sức hút đầy thanh lịch cũng như trở thành tâm điểm của mọi ánh nhìn.<br><i>Giày cao gót mũi tròn Hester - Phấn</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</p>",
+  "price": 1790000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c0"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c1"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c2"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c3"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c4"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c5"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587001561d90ebc17a415c6"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346228/shoes/ostlyxqdhhoxazx8ct84.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346227/shoes/jiitihqo5k3cka8sii9x.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346228/shoes/v17njcwfmjmdqbmvlswi.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346228/shoes/vurbpbwxwkqjqxuuzosq.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:43:17.712Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:43:17.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658700c761d90ebc17a41b95"
+  },
+  "productName": "GIÀY CAO GÓT MŨI VUÔNG MONIQUE - BLACK BOXED",
+  "description": "<p><i>Khoác lên mình vẻ ngoài quyến rũ nhưng không kém phần tinh tế như những cô gái quý tộc Pháp cùng đôi giày cao gót Monique.&nbsp;</i><br>Với sự kết hợp hài hòa trong thiết kế như gót trụ vững chắc, mũi giày vuông cổ điển cùng gam màu đen sang trọng, tất cả đã tạo nên một tổng thể tối giản nhưng mang đậm nét thanh lịch, cuốn hút.&nbsp;<br><i>Đặc biệt,</i> <i><strong>Monique</strong></i> còn được tích hợp phần quai đeo nổi bật, hứa hẹn sẽ là một item không những giúp tôn lên mọi phong cách của bạn mà còn đem đến cho bạn những bước đi đầy vững chắc.<br>&nbsp;</p>",
+  "price": 2090000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b96"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b97"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b98"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b99"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b9a"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b9b"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658700c761d90ebc17a41b9c"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346405/shoes/j0w1fdeawlevtoqh05fj.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346405/shoes/qsbylwqdi6u9angrpypy.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346405/shoes/e8mb8xdb3tlvvy2ljwcx.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346406/shoes/k7ink1bkd7rfbsclihh2.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:46:15.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:46:15.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587014f61d90ebc17a41cad"
+  },
+  "productName": "GIÀY MULES CAO GÓT DEMI RECYCLED POLYESTER - KEM",
+  "description": "<p><i><strong>Đôi mules Demi Recycled Polyester</strong> hứa hẹn sẽ chiếm trọn cảm tình của bạn ngay từ cái nhìn đầu tiên.&nbsp;</i><br><i>Được hoàn thiện với gam màu be ánh hồng cá tính phối cùng chi tiết mũi nhọn và dải hạt lấp lánh trên bề mặt nhẵn mịn, đã khiến đôi mules Demi Recycled Polyester trở thành một món phụ kiện hoàn hảo mà chắc chắn sẽ giúp bạn trở thành tâm điểm của mọi ánh nhìn.</i><br><i>Đôi giày cao gót mules Demi Recycled Polyester tại <strong>SHOSEstore</strong> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</i><br>&nbsp;</p>",
+  "price": 2490000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cae"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41caf"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cb0"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cb1"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cb2"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cb3"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587014f61d90ebc17a41cb4"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346541/shoes/wynhv1n37dgvhhjzpnus.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346541/shoes/wilsc1suissxiygq7ruh.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346541/shoes/lfu7l0hlnlfrawoyzsyk.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703346542/shoes/cjpn2yjq3glr7s4w9kft.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:48:31.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:48:31.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587036761d90ebc17a42325"
+  },
+  "productName": "GIÀY MULES CAO GÓT MŨI NHỌN AMBROSIA - ĐEN HỌA TIẾT",
+  "description": "<p><i>Tô điểm duyên dáng vào nét riêng của mỗi quý cô với đôi giày mules cao gót Ambrosia.&nbsp;</i></p><p>Được thiết kế với phần mũi nhọn và gót mảnh cùng chi tiết quai ngang được đính hạt độc đáo, không chỉ tạo nên một tổng thể hài hòa trên nền đen huyền bí mà còn hứa hẹn sẽ tôn lên đôi chân thon dài cũng như là điểm nhấn sáng giá cho mọi phong cách thời thượng của bạn.</p><p><i>Giày mules cao gót mũi nhọn Ambrosia - Đen họa tiết</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</p>",
+  "price": 1590000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587036761d90ebc17a42326"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587036761d90ebc17a42327"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587036761d90ebc17a42328"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587036761d90ebc17a42329"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587036761d90ebc17a4232a"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587036761d90ebc17a4232b"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587036761d90ebc17a4232c"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347077/shoes/hx8kuul2d92qw1taeiu0.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347077/shoes/hu68dv0qna97ovsnof1w.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347078/shoes/x6lie399jcvb9wmg7eeq.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347077/shoes/ugqbf8s3y449kiiuc8yc.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T15:57:27.878Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:57:27.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587041461d90ebc17a424bb"
+  },
+  "productName": "GIÀY NIKE AIR FORCE 1 '07 NAM - NÂU",
+  "description": "<p><i><strong>Giày Nike Air Force 1 '07</strong></i> là mẫu giày huyền thoại của Nike, đây có lẽ là một trong những mẫu giày nổi tiếng nhất của Nike đã tồn tại suốt 40 năm và chưa bao giờ hết hot.</p><p>Nike Air Force 1 '07 có phần upper được làm từ da cao cấp, phần đế giày làm bằng cao su nguyên chất khiến đôi giày bền bỉ với thời gian. Đây có lẽ là đôi giày mà bất cứ chị em nào cũng mong muốn được sở hữu và sử dụng nó.</p><p><i>Giày Nike Air Force 1 '07</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.</p>",
+  "price": 2490000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424bc"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424bd"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424be"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424bf"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424c0"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424c1"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587041461d90ebc17a424c2"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347247/shoes/xeincxtfozwgqikbwvwt.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347246/shoes/zkfp4fsyod69dakrvvrc.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347248/shoes/xhurcgdu0ntmqxmmyshz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347251/shoes/czqzyrjjk8tk7roxoc69.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:00:20.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:00:20.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587048f61d90ebc17a425e8"
+  },
+  "productName": "GIÀY NIKE AIR JORDAN 1 LOW NAM - XANH ĐEN",
+  "description": "<p><i><strong>Giày Nike Air Jordan 1 Low</strong></i> là một trong những dòng giày sneaker nổi tiếng nhất của thương hiệu Jordan, một mẫu giày mà mỗi khi xuất hiện luôn tạo ra cơn sốt trên toàn cầu, một mẫu giày huyện thoại của biết bao nhiêu thế hệ.</p><p>Phần Upper với chất liệu da cao cấp phối màu đẳng cấp, Giày Nike Air Jordan 1 Low là một siêu phẩm đỉnh cao của các tín đồ sneaker.</p><p><i>Giày Nike Air Jordan 1 Low</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 3990000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425e9"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425ea"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425eb"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425ec"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425ed"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425ee"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587048f61d90ebc17a425ef"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347374/shoes/kef0z51cqffss8865iis.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347372/shoes/hsmqiwvvwzbpjwdixafq.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347372/shoes/kx6vyftjmmtmkv3cjgde.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347372/shoes/xulxltbvsnes3lorxdmg.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:02:23.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:02:23.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587051d61d90ebc17a4273c"
+  },
+  "productName": "GIÀY NIKE AIR MAX BOLT NỮ - TRẮNG",
+  "description": "<p><i><strong>Giày Nike Air Max Bolt</strong></i> là mẫu giày Air Max có thiết kế trẻ trung năng động và rất sang chảnh. Kiểu dáng đẹp, cảm giác lên chân vô cùng thoải mái là những điểm khiến Nike Air Max Bolt hấp dẫn người sử dụng.</p><p>Phần Upper của giày được làm từ chất liệu mesh thoáng khí và da cao cấp, đế giữa với thiết lượn sóng cực kì thoải mái khi sử dụng. Giày Nike Air Max Bolt có thể sử dụng trong mọi hoạt động hàng ngày.</p><p><i>Giày Nike Air Max Bolt</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện<br>&nbsp;</p>",
+  "price": 2190000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a4273d"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a4273e"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a4273f"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a42740"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a42741"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a42742"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587051d61d90ebc17a42743"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347515/shoes/k2rj8gy2tfzcgsuqrnbq.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347515/shoes/esnvkvuawpfei4st2grz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347515/shoes/oorlobzmxqdihdyydmys.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703347515/shoes/cf9fkrffv2lzcddl2baw.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:04:45.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:04:45.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658707d729fae0f792e8a0fd"
+  },
+  "productName": "GIÀY NIKE AIR MAX EXCEE NAM - XÁM VÀNG",
+  "description": "<p><i><strong>Giày Nike Air Max Excee</strong></i> mẫu giày thời trang năng động, trẻ trung Air Max Excee đã cập bến tại Myshoes.vn. Đây hứa hẹn sẽ là một mẫu giày chất chơi mà bạn không thể bỏ qua.</p><p><i>Giày Nike Air Max Excee</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện<br>&nbsp;</p>",
+  "price": 2290000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a0fe"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a0ff"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a100"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a101"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a102"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a103"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658707d729fae0f792e8a104"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348209/shoes/yaouqsxtou1oyp57nrod.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348209/shoes/dhr5nxj5rewwhvfeaobc.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348210/shoes/mg94xpzaknrwravw6tck.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348213/shoes/ysbxpit60cjgf5ksvs2n.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:16:23.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:16:23.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587096c29fae0f792e8a6ea"
+  },
+  "productName": "GIÀY NIKE AIR MAX INTRLK LITE NỮ - HỒNG NHẸ",
+  "description": "<p><i><strong>Giày Nike Air Max INTRLK Lite</strong></i> là mẫu giày với thiết kế vô cùng thời trang của Nike với sự kết hợp hài hòa giữa quá khứ và hiện đại.</p><p>Phần đế giữa của Nike Air Max INTRLK Lite được thiết kế rất hợp lý mềm mại với công nghệ tiên tiến nhất của Nike. Chắc chắn đây là mẫu giày mà bất cứ fan Sneaker không thể bỏ qua</p><p><i>Giày Nike Air Max INTRLK Lite</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng từ Nike. Full box, đầy đủ phụ kiện.</p>",
+  "price": 2189999,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6eb"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6ec"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6ed"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6ee"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6ef"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6f0"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587096c29fae0f792e8a6f1"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348617/shoes/mnccim6akozbysyjdpu3.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348617/shoes/lqwqwumzdbhqfukayq9o.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348618/shoes/nvprura1t1vuatc1sper.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348619/shoes/yday13sp9mj5qgiaygyq.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:23:08.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:23:08.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658709d729fae0f792e8a6f4"
+  },
+  "productName": "GIÀY NIKE AIR MAX SYSTM NỮ - TRẮNG TÍM",
+  "description": "<p><i><strong>Giày Nike Air Max SYSTM</strong></i> là mẫu giày Air Max mới được Nike ra mắt trong năm nay. Nike Air Max SYSTM có thiết kế thời trang năng động, trẻ trung. &nbsp;Đây hứa hẹn sẽ là một mẫu giày cực hot trong trong thời gian tới.</p><p>Phần Upper của giày được làm từ chất liệu mesh thoáng khí và da cao cấp, bộ đệm Air Max được thiết kế khá dày mang đến sự êm ái tuyệt vời. Giày Nike Air Max SYSTM có thể sử dụng trong mọi hoạt động hàng ngày.</p><p><i>Giày Nike Air Max SYSTM</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện<br>&nbsp;</p>",
+  "price": 2390000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6f5"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6f6"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6f7"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6f8"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6f9"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6fa"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658709d729fae0f792e8a6fb"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348724/shoes/lqzp7fm5uhludhyw7ar1.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348725/shoes/eelgojeagdeqjnmzoiis.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348725/shoes/i8o2v0z3bzrwuw8alsti.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348725/shoes/kspljvtr2y6z91ughbpn.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:24:55.048Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:24:55.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870a5529fae0f792e8a6fe"
+  },
+  "productName": "GIÀY NIKE JORDAN FADEAWAY NAM - TRẮNG ĐEN",
+  "description": "<p><i><strong>Giày Nike Jordan Fadeaway</strong></i> là một mẫu giày sneaker có thiết kế classic đẹp trẻ trung, bạn có thể sử dụng Jordan Fadeaway để phối với rất nhiều loại trang phục khác nhau đều mang đến sự tự tin và thoải mái.<br>Phần Upper làm bằng chất liệu da cao cấp, đế giày chất liệu cao su bền đẹp với thời gian. Bạn sẽ cảm thấy thật sự thoải mái khi sử dụng Nike Jordan Fadeaway cho các hoạt động hàng ngày.</p><p><i>Giày Nike Jordan Fadeaway</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 2490000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a6ff"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a700"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a701"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a702"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a703"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a704"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "65870a5529fae0f792e8a705"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348850/shoes/jt99lsxbf1yktnhlpfmw.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348850/shoes/ions7lndjyngqhvftclx.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348850/shoes/bie4sfeby9nwevjyqhpy.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703348852/shoes/jdqf26dde0hqbjpflxp5.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:27:01.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:27:01.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870b5429fae0f792e8a708"
+  },
+  "productName": "GIÀY NIKE REACT ESCAPE RUN 2 NỮ - XANH CAM",
+  "description": "<p><i><strong>Giày Nike React Escape Run 2</strong></i> một mẫu giày thể thao có thiết kế thời trang, với bộ đệm vô cùng êm ái tạo cảm giác thật sự dễ chịu khi di chuyển.&nbsp;</p><p>Một mẫu giày tuyệt vời mà chị em không thể bỏ qua được.</p><p><i>Giày Nike React Escape Run 2</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng từ Nike. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 2390000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a709"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70a"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70b"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70c"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70d"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70e"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "65870b5429fae0f792e8a70f"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349104/shoes/lquxvzwqpsrpsx3j0coz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349104/shoes/gyc2yfe0zjhethqjglum.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349106/shoes/hzsx3wozqvqod1xazvk7.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349106/shoes/r30ru8i9u8o1zk6mniv9.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:31:16.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:31:16.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870c2c29fae0f792e8a846"
+  },
+  "productName": "GIÀY PUMA RBD GAME LOW BETTER II NAM - TRẮNG",
+  "description": "<p><i><strong>Giày Puma RBD Game Low Better II</strong></i> là mẫu giày có thiết kế đẹp cổ điển mà rất tinh tế. Chất liệu da cao cấp và đế cao su bền bỉ chắc chắn sẽ làm hài lòng những khách hàng khó tính nhất. Bạn sẽ luôn yên tâm rằng nó không bao giờ bị lỗi mốt.</p><p><i>Giày Puma RBD Game Low Better II</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1789999,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a847"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a848"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a849"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a84a"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a84b"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a84c"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870c2c29fae0f792e8a84d"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349321/shoes/fat9exk3mzuqdfkboxql.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349321/shoes/ovrp1r8xma7plpj3cj5d.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349323/shoes/hbhxg7xkqjaw9lg4xzmz.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349323/shoes/aj4ufcdlk9lnbokxvsei.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:34:52.869Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:34:52.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870cab29fae0f792e8a850"
+  },
+  "productName": "GIÀY PUMA REBOUND JOY LOW NAM - TRẮNG GHI",
+  "description": "<p><i><strong>Giày Puma Rebound Joy Low</strong></i> là mẫu giày có thiết kế tuyệt đẹp cổ điển mà rất tinh tế. Chất liệu da cao cấp và đế cao su bền bỉ chắc chắn sẽ làm hài lòng những khách hàng khó tính nhất. Bạn sẽ luôn yên tâm rằng nó không bao giờ bị lỗi mốt.</p><p><i>Giày Puma Rebound Joy Low</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng Full box, đầy đủ phụ kiện.<br><br>&nbsp;</p>",
+  "price": 1790000,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a851"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a852"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a853"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a854"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a855"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a856"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870cab29fae0f792e8a857"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349446/shoes/al2dlxjmlroqzlg2uon6.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349446/shoes/nv5pe5arbzregoldm6fe.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349446/shoes/l3gxjzsre6iejj9tzwfe.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349449/shoes/w8zjh71ysbei37ziqv3n.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:36:59.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:36:59.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870cfd29fae0f792e8a85a"
+  },
+  "productName": "GIÀY PUMA SLIPSTREAM CORD NAM - TRẮNG NÂU",
+  "description": "<p><i><strong>Giày Puma Slipstream Cord</strong></i> mẫu giày sneaker rất nổi tiếng của Puma, thiết kế cổ điển nhưng đẹp và không bao giờ lo lỗi mốt.&nbsp;</p><p>Puma Slipstream Cord là lựa chọn không thể bỏ qua của các fan giày sneaker.</p><p><i>Giày Puma Slipstream Cord</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.<br><br>&nbsp;</p>",
+  "price": 3790000,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a85b"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a85c"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a85d"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a85e"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a85f"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a860"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870cfd29fae0f792e8a861"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349528/shoes/lrqsfixhffszgszjlrwa.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349529/shoes/fqh5lqdco23ytchcu90m.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349530/shoes/yx0m9rgnljbil4kwiqm4.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349531/shoes/zpgvpfntjba2ab3dm7sq.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:38:21.331Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:38:21.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870e3a29fae0f792e8a9be"
+  },
+  "productName": "GIÀY PUMA SUEDE BULK NAM - CAMO",
+  "description": "<p><i><strong>Giày Puma Suede</strong></i> là một trong mẫu giày Classic huyền thoại của Puma. Được làm bằng da lộn cao cấp, sang trọng, đế giày cực kỳ bền đẹp. Đây là một mẫu giày tuyệt vời dành dành cho mọi hoạt động hàng ngày.</p><p>Phần Upper chất liệu da lộn cao cấp siêu bền, đế giày chất liệu cao su nguyên chất chiệu ma sát và mài mòn cực tốt.</p><p><i>Giày Puma Suede</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.&nbsp;<br>&nbsp;</p>",
+  "price": 1890000,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9bf"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c0"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c1"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c2"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c3"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c4"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870e3a29fae0f792e8a9c5"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349848/shoes/mubno267woiyva6fvnq5.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349845/shoes/nbasjespowixyggskaf6.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349847/shoes/puphpbydapdnopnx9y2e.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349849/shoes/jg0avsy7yxvhjvt22i5c.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:43:38.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:43:38.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870eb529fae0f792e8a9c8"
+  },
+  "productName": "GIÀY PUMA TAPER NAM - XÁM",
+  "description": "<p><i><strong>Giày Puma Taper</strong></i> có thiết kế rất đẹp cùng với những công nghệ cao cấp của Puma. Với trọng lượng rất nhẹ và bộ đế cực kỳ êm ái Puma Taper mang đến cho người đi cảm giác rất linh hoạt và năng động.</p><p><i>Giày Puma Taper</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1290000,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9c9"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9ca"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9cb"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9cc"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9cd"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9ce"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870eb529fae0f792e8a9cf"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349971/shoes/psmmobiuowz6lrqi5r2e.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349971/shoes/esfj8loaub9bqw6i1hae.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349971/shoes/adzrl8c6uxe374fd4l23.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703349972/shoes/tgkfqn8obq581en3bhqc.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:45:41.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:45:41.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870f2029fae0f792e8a9d2"
+  },
+  "productName": "GIÀY PUMA X RAY TRAINERS NAM - TRẮNG",
+  "description": "<p><i><strong>Giày Puma X Ray Trainers</strong></i> là một trong mẫu giày thể thao có có thiết kế đơn giản mà rất tinh tế. Một mẫu giày mà bạn có thế sử dụng trong mọi hoạt động hàng ngày.</p><p>Giày Puma X Ray Trainers với phần upper được trang bị vải mesh rất thoáng khí, phần đế giữa Softride cao cấp của Puma cho độ êm vượt trội.</p><p><i>Giày Puma X Ray Trainers</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng Full box, đầy đủ phụ kiện.&nbsp;</p>",
+  "price": 1590000,
+  "brand": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d3"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d4"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d5"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d6"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d7"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d8"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870f2029fae0f792e8a9d9"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350077/shoes/plznmxr3wwo631bpbva6.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350077/shoes/sj0qptiapyq7rjb3oodo.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350078/shoes/jebazh2eb8z5ecdtvisy.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350079/shoes/mb3vkln0qz29iof2411r.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:47:28.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:47:28.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870fb329fae0f792e8a9dc"
+  },
+  "productName": "GIÀY SANDAL CAO GÓT MEADOW - TRẮNG",
+  "description": "<p><i>Thanh lịch và sang trọng là hai mỹ từ dùng để gợi tả vẻ đẹp của đôi giày sandal Meadow.&nbsp;</i></p><p>Được hoàn thiện với thiết kế dây mảnh đan chéo trên gam màu trắng thuần khiết đã tạo nên sự mềm mại, duyên dáng cho tổng thể cùng thiết kế phần gót cao 6cm, Meadow không chỉ giúp tôn lên đôi chân thon gọn của mọi quý cô mà còn hứa hẹn sẽ cùng bạn tạo nên những bản phối đầy cuốn hút.</p><p><i>Giày sandal cao gót Meadow - Trắng</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1390000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9dd"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9de"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9df"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9e0"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9e1"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9e2"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "65870fb329fae0f792e8a9e3"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350226/shoes/tdsamr3aeofywptlqcso.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350226/shoes/iauvshmdtpuc8psjig7q.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350225/shoes/ib9rj2r7vqmal25gseps.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350225/shoes/ytp4zsiuv1jymzftftuh.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:49:55.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:49:55.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587104029fae0f792e8a9e6"
+  },
+  "productName": "GIÀY SANDALS CAO GÓT ANKLE-STRAP GEM-EMBELLISHED - VÀNG ĐỒNG",
+  "description": "<p><i>Đôi giày <strong>sandals cao gót Ankle-Strap Gem-Embellished</strong> chính là chiếc chìa khóa vạn năng hứa hẹn sẽ giúp bạn dễ dàng thể hiện phong cách chuyên nghiệp của mình.</i><br>Được hoàn thiện từ chất liệu da mềm mại trên phom dáng tinh tế cùng dải hạt lấp lánh làm điểm nhấn độc đáo trên chi tiết gót nhọn sắc sảo, tất cả đã góp phần tạo nên một tổng thể hài hòa và là điểm nhấn nổi bật để bạn tỏa sáng trong mọi sự kiện.</p><p><i>Đôi giày sandals cao gót Ankle-Strap Gem-Embellished</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 2190000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9e7"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9e8"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9e9"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 11,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9ea"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9eb"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9ec"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587104029fae0f792e8a9ed"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350366/shoes/bmc6x7scmyx8lcmb5iw6.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350366/shoes/zu5vhlxzhasjq3nlemln.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350366/shoes/eq62wt4so3r3mfoyocxr.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350367/shoes/t6b5mt8wfjk7ndeefkcc.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T16:52:16.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:52:16.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587127329fae0f792e8b31c"
+  },
+  "productName": "GIÀY SANDALS CAO GÓT METALLIC CAP ANKLE - STRAP",
+  "description": "<p>Những đôi giày màu bạc này sẽ tạo nên sự hoàn thiện hoàn hảo cho trang phục dự tiệc và các dịp đặc biệt của bạn.&nbsp;<br>Lớp hoàn thiện bằng kim loại bắt mắt sẽ ngay lập tức tăng thêm điểm nhấn cho bộ trang phục của bạn.&nbsp;<br>Đôi giày này cũng đi kèm với phần mũi có tông màu bạc kim loại bắt mắt - phần đế lót được phối logo tinh tế sẽ giúp tăng thêm sự sang trọng và nổi bật cho tổng thể. Điểm cộng là phần móc khóa tiện dụng giúp đôi giày này cực kỳ dễ mang.<br><i>Giày sandals cao gót Metallic Cap Ankle-Strap - Bạc</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</p>",
+  "price": 1590000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b31d"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b31e"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b31f"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b320"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b321"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b322"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587127329fae0f792e8b323"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350929/shoes/lnt3lapnhrls28ty56sh.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350929/shoes/hrpwdyg10vunodk3donc.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350929/shoes/tv67r9r7adhb9oqagi8n.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703350930/shoes/a5bflkh08qzn6l0pze5y.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:01:39.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:01:39.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587146129fae0f792e8bb42"
+  },
+  "productName": "GIÀY SNEAKER UNISEX CỔ CAO CHUCK TAYLOR ALL STAR CONSTRUCT",
+  "description": "<p><strong>Thương hiệu:</strong> Converse<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc:</strong> Green<br><strong>Chất liệu:</strong> Canvas</p><p><strong>Đế:</strong> Cao su<br><strong>Thiết kế:</strong></p><ul><li>Thiết kế cổ cao đặc trưng với form ôm sát cổ chân</li><li>Phong cách phối màu đậm nhạt độc đáo</li><li>Hai khoen tròn nhỏ ở&nbsp;bên hông giúp chân&nbsp;thông thoáng</li><li>Đế giữa EVA nhẹ và đế ngoài cao su bền chắc</li><li>Đệm Ortholite cho cảm giác thoải mái cả ngày</li><li>Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện</li></ul>",
+  "price": 2500000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb43"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb44"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb45"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb46"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb47"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb48"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "6587146129fae0f792e8bb49"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703351423/shoes/rrxmimftvwc4wvsqpuld.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703351422/shoes/fkxfdaxbcrpjknxy8r50.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703351422/shoes/yya3pwydtdvpjiwkfvha.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703351422/shoes/haqzxsh2visc3ncshbx2.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:09:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:09:53.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587189a29fae0f792e8cf57"
+  },
+  "productName": "GIÀY SNEAKERS NỮ CỔ CAO CHUCK TAYLOR ALL STAR LIFT",
+  "description": "<p>Hãy tô điểm cá tính vào phong cách của bạn với đôi giày Chuck Taylor All Star Lift! Với thiết kế độc đáo vừa cổ điển vừa hiện đại, đôi giày này chắc chắn sẽ giúp bạn cân được mọi phong cách thời trang. Đặc biệt hơn, với những chi tiết được điểm xuyến tỉ mỉ trên thân giày, item này hứa hẹn sẽ thay bạn ghi lại mọi dấu ấn khó quên.<br><br><strong>Thương hiệu:</strong> Converse<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc:</strong> Black<br><strong>Chất liệu:</strong> Vải canvas<br><strong>Đế:</strong> Cao su<br><strong>Thiết kế:</strong><br>&nbsp; &nbsp;Cổ cao đặc trưng với phom ôm sát cổ chân<br>&nbsp; &nbsp;Đính các hạt kim loại tròn mạ vàng tạo điểm nhấn<br>&nbsp; &nbsp;Hai khoen tròn nhỏ ở bên hông giúp chân thông thoáng<br>&nbsp; &nbsp;Đế platform cao su dày dặn, có độ bám và ma sát cao<br>&nbsp; &nbsp;Đệm lót êm ái, tạo sự thoải mái và hỗ trợ di chuyển linh hoạt<br>&nbsp; &nbsp;Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br>&nbsp;</p>",
+  "price": 1800000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf58"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf59"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf5a"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf5b"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf5c"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf5d"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587189a29fae0f792e8cf5e"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352505/shoes/tmwftgr3smbg650voqg2.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352505/shoes/o9kjhuujamg33sfc0s1g.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352504/shoes/hlnrazyzdyzkplbmrhxz.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352505/shoes/anrco1ezrl4ewie4smcn.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:27:54.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:27:54.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587196029fae0f792e8d1da"
+  },
+  "productName": "GIÀY SNEAKERS UNISEX CỔ CAO CHUCK TAYLOR ALL STAR 1970S AT CX",
+  "description": "<p>Hãy tô điểm cá tính vào phong cách của bạn với đôi giày <i><strong>Chuck Taylor All Star 1970s At CX</strong></i> Với thiết kế độc đáo vừa cổ điển vừa hiện đại, đôi giày này chắc chắn sẽ giúp bạn cân được mọi phong cách thời trang. Đặc biệt hơn, với những chi tiết được điểm xuyến tỉ mỉ trên thân giày, item này hứa hẹn sẽ thay bạn ghi lại mọi dấu ấn khó quên.</p><p><strong>Màu sắc:</strong> Black<br><strong>Chất liệu:</strong> Vải canvas. Đế: Cao su<br><strong>Kiểu dáng:</strong> giày cổ cao đặc trưng với form ôm sát cổ chân<br>Dây thắt mảnh đơn giản<br>Logo Chuck 70 nổi bật<br>Tem gót màu đen được thiết kế riêng cho dòng này<br>Đệm lót &amp; đế lót làm bằng bọt CX tạo nên sự thoải mái<br>Đế cao su bền chắc, có độ bám và ma sát cao<br>Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br><strong>Xuất xứ thương hiệu</strong>: Mỹ<br>&nbsp;</p>",
+  "price": 2900000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a4"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a5"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a6"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a7"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a8"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7a9"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "65871a2629fae0f792e8d7aa"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352702/shoes/kvgaje170dk5vpnvekf5.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352702/shoes/cvhxjgvsqqyo20cuybbp.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352702/shoes/dxqgrg8e0ncjs471eyfk.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352703/shoes/ebgbyobcuyihkoeglrzg.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:31:12.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:34:30.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658719f229fae0f792e8d356"
+  },
+  "productName": "GIÀY SNEAKERS UNISEX CỔ CAO CHUCK TAYLOR ALL STAR CX",
+  "description": "<p><strong>Thương hiệu:</strong> CONVERSE<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc</strong>: Green<br><strong>Chất liệu:</strong> Vải canvas<br><strong>Đế: </strong>Cao su &nbsp; &nbsp;&nbsp;<br><strong>Thiết kế:</strong></p><p>&nbsp; &nbsp;Kiểu dáng giày cổ cao đặc trưng với form ôm sát cổ chân<br>&nbsp; &nbsp;Hai khoen tròn nhỏ ở bên hông giúp chân thông thoáng<br>&nbsp; &nbsp;Thiết kế đế giữa trong suốt với tone màu hơi mờ độc đáo<br>&nbsp; &nbsp;Đế cao su bền chắc, có độ bám và ma sát cao<br>&nbsp; &nbsp;Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br><strong>Logo:</strong> Chi tiết logo thương hiệu nổi bật ở má ngoài<br>Mũi giày tròn<br><strong>Dây quai:</strong> Dây thắt mảnh, có thể điều chỉnh dễ dàng &nbsp;&nbsp;<br><strong>Thoáng khí:</strong> Có lớp lót thoáng khí &nbsp;<br><strong>Thích hợp dùng trong các dịp:</strong> Đi làm, đi chơi<br><strong>Xu hướng theo mùa:</strong> Sử dụng được tất cả các mùa trong năm<br>&nbsp;</p>",
+  "price": 2300000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d357"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d358"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d359"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d35a"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d35b"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d35c"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658719f229fae0f792e8d35d"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352847/shoes/ildwnnbkftqryv61mbbm.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352847/shoes/fuohvuoy3qdf5uypijrl.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352848/shoes/py06ykwrkncavftrxw09.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703352849/shoes/ezrbui5pajyniqq5gt4m.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:33:38.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:33:38.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65871ebe29fae0f792e8f30d"
+  },
+  "productName": "GIÀY MULES CAO GÓT TWEED SLANT",
+  "description": "<p>Hãy để những đôi giày gót nghiêng có họa tiết này nâng tầm diện mạo hàng ngày của bạn.&nbsp;<br>Lớp hoàn thiện bằng vải tweed đen và trắng tạo nên vẻ ngoài hai tông màu tương phản, vẫn sẽ rất phù hợp với những món đồ trung tính của bạn.&nbsp;<br>Những đường nét gọn gàng và tinh tế tạo nên phong cách minimal - phần quai ngang và gót nghiêng mang lại vẻ đẹp thu hút và sang trọng. Thêm đôi này vào tủ đồ của bạn để thêm một chút hấp dẫn về mặt hình ảnh, chắc chắn sẽ thu hút sự chú ý ở bất cứ nơi nào bạn đến.<br><i>Giày mules cao gót Tweed Slant</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.<br>&nbsp;</p>",
+  "price": 1450000,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f30e"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f30f"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f310"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f311"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f312"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f313"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "65871ebe29fae0f792e8f314"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354075/shoes/mb4isgsw2oq2bblrhnl6.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354076/shoes/i9ikyp0blcgvflgwlnsi.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354076/shoes/fa4xsjc2yt97qjjrlhzg.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354076/shoes/vlvrhse7e07dszoed5y0.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:54:06.387Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:54:06.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65871f1d29fae0f792e8f407"
+  },
+  "productName": "GIÀY CAO GÓT QUAI NGANG PADDED STRAP - TRẮNG",
+  "description": "<p><i>Một đôi giày cao gót với kiểu dáng đẹp sẽ thu hút sự chú ý ở bất cứ nơi nào bạn đến, và đôi giày cao gót quai ngang này chính là một sự lựa chọn hoàn hảo.&nbsp;</i><br>Kết cấu sang trọng tạo thêm sự thú vị về mặt hình ảnh, cùng lớp hoàn thiện tông màu trắng tinh khôi sẽ dễ dàng kết hợp với nhiều loại trang phục trong tủ đồ của bạn.&nbsp;</p><p>Thiết kế sang trọng với phần quai ngang đẹp mắt và quai hậu co giãn, đảm bảo bạn sẽ cảm thấy vừa vặn và thoải mái khi mang suốt cả ngày.<br><i>Giày cao gót quai ngang Padded Strap - Trắng</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng qua đường hàng không. Full box, đầy đủ phụ kiện.</p>",
+  "price": 0,
+  "brand": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 10,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f408"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f409"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f40a"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f40b"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f40c"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f40d"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "65871f1d29fae0f792e8f40e"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354171/shoes/o5kafozgilmuhj6xx7tn.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354171/shoes/qqxscero9qpirtikg64v.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354171/shoes/qbibd8eu2ughf8srznfr.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354171/shoes/rdsez4szxzt2fjpkmoz2.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T17:55:41.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:55:41.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658721ad29fae0f792e9018b"
+  },
+  "productName": "GIÀY NIKE AIR MAX EXCEE NỮ - TRẮNG XANH",
+  "description": "<p><i><strong>Giày Nike Air Max Excee</strong></i> mẫu giày thời trang năng động, trẻ trung Air Max Excee đã cập bến tại Myshoes.vn. Đây hứa hẹn sẽ là một mẫu giày chất chơi mà bạn không thể bỏ qua.</p><p><i>Giày &nbsp;Nike &nbsp;Air Max Excee</i> chính hãng tại<i><strong> SHOSEstore</strong></i> được nhập khẩu chính hãng. Full box, đầy đủ phụ kiện<br>&nbsp;</p>",
+  "price": 2290000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "658721ad29fae0f792e9018c"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658721ad29fae0f792e9018d"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "658721ad29fae0f792e9018e"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658721ad29fae0f792e9018f"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658721ad29fae0f792e90190"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "658721ad29fae0f792e90191"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658721ad29fae0f792e90192"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354824/shoes/rzth8wlmus2mgrvq0keu.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354826/shoes/gcjkae3flweoam3by2xa.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354826/shoes/vkhwd9gzdbsy6nyeclm0.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703354827/shoes/bmgzag8xv6qta4w5kklw.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:06:37.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:06:37.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587226929fae0f792e90362"
+  },
+  "productName": "GIÀY NIKE AIR ZOOM PEGASUS 39 NỮ- TRẮNG",
+  "description": "<p><i><strong>Giày Nike Air Zoom Pegasus 39</strong></i> là mẫu giày thể thao phiên bản thứ 39 của dòng giày huyền thoại Nike Pegasus nổi tiếng. Với những cải tiến vượt trội đặc biệt với việc gấp 2 lần lớp đệm Air Zoom so với phiên bản trước, Nike Air Zoom Pegasus 39 xứng đáng là siêu phẩm được săn đón nhất hiện nay.</p><p><i>Đầu tiên</i> khi nhìn vào Nike Air Zoom Pegasus 39 chúng ta có thể thấy một thiết kế cực kỳ đẹp và hiện đại, khác biệt khá nhiều so với Pegasus 38.</p><p><i>Thứ hai</i> nói về công nghệ Giày Nike Air Zoom Pegasus 39 đã có những cải tiến vượt trội đặc biệt là phần đế giữa, Nike đã tăng gấp 2 lần bộ đệm Air Zoom giúp cho nó trở lên cực kỳ êm ái và đàn hồi tuyệt vời. Cảm giác lên chân cực sướng so với các phiên bản trước.</p><p><i>Điều thứ ba</i>, là phần Upper ở giày Nike Air Zoom Pegasus 39 có lưỡi gà được tách ở giữa phù hợp với hình dáng bàn chân, cùng với việc tăng thêm độ dày giúp bảo vệ mu bàn chân và tạo cảm giác thật sự thoải mái trên mỗi bước đi. Chất lượng vật liệu phần upper cũng được nâng cấp làm cho đôi giày bền đẹp và chắc chắn hơn.</p><p><i>Điều thứ 4</i> phần gót giày được thiết kế tối ưu cho việc tiếp đất giúp bạn dễ dàng chuyển động bàn chân từ gót đến mũi, kết hợp cùng với lớp đệm React dày mang đến cảm giác tràn đầy năng lượng.</p><p><i>Cuối cùng</i>, với những cải tiến vượt trội và thiết kế đẹp mắt, Nike Air Zoom Pegasus 39 sẽ là một sự lựa chọn không thể tốt hơn cho mọi hoạt động hàng ngày. Đây chính là một trong những mẫu giày mà Myshoes.vn yêu thích nhất và tự hào mang đến bạn.</p>",
+  "price": 2690000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "6587226929fae0f792e90363"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587226929fae0f792e90364"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "6587226929fae0f792e90365"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587226929fae0f792e90366"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6587226929fae0f792e90367"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587226929fae0f792e90368"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587226929fae0f792e90369"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355013/shoes/gbmcnzo0w31iihxh464w.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355014/shoes/oefqmrzpfzzepgkffgxq.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355014/shoes/panjsua91b0caym3tsm7.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355015/shoes/x5ge7kyrf1ws11tikhyo.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:09:45.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:09:45.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658722d429fae0f792e90473"
+  },
+  "productName": "GIÀY NIKE REVOLUTION 6 NEXT NATURE NỮ - HỒNG NHẠT",
+  "description": "<p><i><strong>Giày Nike Revolution 6</strong></i> là mẫu giày chạy bộ, tập thể thao nhẹ nhàng và có mức giá rất tốt tại Myshoes.vn- Giày Chính Hãng. Nike Revolution 6 sẽ là lựa chọn hoàn hảo, hợp lý,chính xác cho bạn.</p><p>Với công nghệ được thiết kế để vừa chạy vừa có thể tập thể thao nhưng lại không quá đắt như Zoom hay React. Nike Revolution 6 sẽ là mẫu giày mà các tín đồ yêu thích thể thao nên có cho mình một đôi. Đồng thời với lối thiết kế trẻ trung, hiện đại thì bạn có thể dùng chính đôi giày này để kết hợp với các Outfit thường ngày.</p><p><i>Giày Nike Revolution 6</i> tại <i><strong>SHOSEstore</strong></i> được nhập khẩu chính hãng từ Nike. Full box, đầy đủ phụ kiện</p>",
+  "price": 90000,
+  "brand": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 6,
+      "_id": {
+        "$oid": "658722d429fae0f792e90474"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658722d429fae0f792e90475"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 9,
+      "_id": {
+        "$oid": "658722d429fae0f792e90476"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658722d429fae0f792e90477"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658722d429fae0f792e90478"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658722d429fae0f792e90479"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658722d429fae0f792e9047a"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355118/shoes/yzcvhwy6brvbv9vfbtij.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355118/shoes/gkqlnaglnuqa7kfw2uj9.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355120/shoes/xwbvdxdyvupn5axo8bco.jpg",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703355122/shoes/fknqukp7etwbrguvkgpt.jpg"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:11:32.406Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:11:32.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587279829fae0f792e92066"
+  },
+  "productName": "GIÀY SNEAKERS UNISEX CỔ CAO RUN STAR LEGACY CX",
+  "description": "<p>Đúng như tên gọi,<i><strong> Run Star Legacy CX</strong></i> là đôi giày sneakers đến từ tương lai, tích hợp những cải tiến vượt trội để mang đến sự thoải mái tối đa cho bạn. Với chất liệu canvas bền vững ôm chân vừa vặn, thiết kế hiện đại cùng tính năng vượt trội với đế giữa và đế lót làm từ CX - một loại cao su có đặc tính đàn hồi vượt trội tiếp sức cho mọi vận động của đôi chân, Run Star Legacy CX xứng đáng là “chiến thần” khuấy đảo mọi outfit.</p><p><br><strong>Thương hiệu:</strong> Converse<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc:</strong> Blue<br><strong>Chất liệu</strong>: Vải Canvas<br><strong>Đế:</strong> Cao su<br><strong>Thiết kế:</strong><br>&nbsp; &nbsp;Thiết kế cổ cao đặc trưng với form ôm sát cổ chân<br>&nbsp; &nbsp;Phối đinh tán mạ vàng sáng bóng<br>&nbsp; &nbsp;Hai khoen tròn nhỏ ở bên hông giúp chân thông thoáng<br>&nbsp;</p>",
+  "price": 2500000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587279829fae0f792e92067"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587279829fae0f792e92068"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587279829fae0f792e92069"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587279829fae0f792e9206a"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587279829fae0f792e9206b"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587279829fae0f792e9206c"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587279829fae0f792e9206d"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356342/shoes/psuyiibcwtzor550l3kc.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356341/shoes/lmokqoauwnoramadla39.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356342/shoes/fuzqrwevzavt7kf8qsf2.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356342/shoes/szjsbu5sfsdofjvgslpt.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:31:52.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:31:52.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587286e29fae0f792e9228d"
+  },
+  "productName": "GIÀY SNEAKERS NỮ CỔ CAO CHUCK TAYLOR ALL STAR MOVE",
+  "description": "<p>Mang trong mình sự kết hợp tinh tế giữa phong cách đường phố và nét cá tính mạnh mẽ, <i><strong>Chuck Taylor All Star Move</strong></i> với thiết kế cổ cao độc đáo và đế dày dặn sẽ là nguồn cảm hứng cho mọi bước đi tự tin của bạn. Với phiên bản lần này đôi giày đã được cải tiến để trở nên nhẹ hơn bao giờ hết, giúp mang lại sự thoải mái tuyệt vời mà không hề mất đi độ bền vốn có của các dòng giày thuộc thương hiệu Converse. Ngoài ra, với tông màu trung tính, Chuck Taylor All Star Move sẽ giúp bạn dễ dàng phối hợp cùng đa dạng trang phục và thay đổi phong cách thời trang hằng ngày.<br><br><strong>Thương hiệu:</strong> Converse<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Giới tính:</strong> Nữ<br><strong>Kiểu dáng</strong>: Giày sneakers cổ cao<br><strong>Màu sắc</strong>: White<br><strong>Chất liệu:</strong> Vải Canvas<br><strong>Đế:</strong> Cao su<br><strong>Thiết kế:</strong><br>&nbsp; &nbsp;Thiết kế cổ cao đặc trưng với form ôm sát cổ chân<br>&nbsp; &nbsp;Phối đinh tán mạ vàng sáng bóng<br>&nbsp; &nbsp;Đế platform cao cá tính<br>&nbsp; &nbsp;Đế cao su bền chắc, có độ bám và ma sát cao<br>&nbsp; &nbsp;Đệm Ortholite cho cảm giác thoải mái cả ngày<br>&nbsp; &nbsp;Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br><br>&nbsp;</p>",
+  "price": 2000000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587286e29fae0f792e9228e"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587286e29fae0f792e9228f"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587286e29fae0f792e92290"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587286e29fae0f792e92291"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587286e29fae0f792e92292"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587286e29fae0f792e92293"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587286e29fae0f792e92294"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356556/shoes/hu01mnl6y2tmym7ezphr.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356556/shoes/mk38ooepv562oiaqyfqx.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356555/shoes/mocvyvudfznxhmxnvnwp.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356556/shoes/vsupxmsqhwuflrwcb4bn.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:35:26.200Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:35:26.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658728fb29fae0f792e923fb"
+  },
+  "productName": "GIÀY SNEAKERS UNISEX CỔ CAO CHUCK TAYLOR ALL STAR CRUISE",
+  "description": "<p><i><strong>Giày sneakers Chuck Taylor All Star Cruise</strong></i> được thiết kế với nguồn cảm hứng của thế hệ mới: đế cao tách lớp thời thượng &amp; phần lưỡi giày bằng da lộn cá tính. Cộng thêm bộ đệm Ortholite êm ái, Chuck Taylor All Star Cruise tựa như chiếc đòn bẩy thúc đẩy sự tự tin phá cách &amp; tiến về tương lai phía trước!<br><br><strong>Thương hiệu:</strong> Converse<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc:</strong> Legend Berry<br><strong>Chất liệu:</strong> Canvas<br><strong>Đế:</strong> Cao su<br><strong>Thiết kế:</strong><br>&nbsp; &nbsp;Kiểu dáng cổ cao đặc trưng với form ôm sát cổ chân<br>&nbsp; &nbsp;Đệm OrthoLite giúp bạn luôn thoải mái<br>&nbsp; &nbsp;Đế ngoài EVA nhẹ với đế giữa bằng xốp hỗ trợ thêm<br>&nbsp; &nbsp;Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br><br>&nbsp;</p>",
+  "price": 2500000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658728fb29fae0f792e923fc"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658728fb29fae0f792e923fd"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658728fb29fae0f792e923fe"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658728fb29fae0f792e923ff"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658728fb29fae0f792e92400"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658728fb29fae0f792e92401"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "658728fb29fae0f792e92402"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356697/shoes/rytkgaasnhsyrvfsdeal.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356697/shoes/lbj0fynr1ajmtdxzdrzz.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356696/shoes/htt6f6czhasyg31lm4bp.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356696/shoes/mddkdj1wvcopqb6cwpcp.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:37:47.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:37:47.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587296c29fae0f792e92524"
+  },
+  "productName": "GIÀY SNEAKERS UNISEX CỔ CAO CHUCK TAYLOR ALL STAR CX TRẮNG",
+  "description": "<p><i><strong>Đôi giày sneakers Chuck Taylor All Star CX</strong></i> sở hữu cho mình thiết kế tương phản cực kỳ nổi bật cùng chi tiết cổ cao độc đáo, không chỉ giúp bạn tạo nên những bản phối thời thượng, mà còn khiến bạn dễ dàng trở thành tâm điểm của mọi sự kiện. Hãy thỏa sức mix&amp;match và tự tin thể hiện cá tính của mình với item đặc biệt này!</p><p><strong>Thương hiệu:</strong> CONVERSE<br><strong>Xuất xứ:</strong> Mỹ<br><strong>Kiểu dáng:</strong> Giày sneakers cổ cao<br><strong>Màu sắc</strong>: White<br><strong>Chất liệu:</strong> Vải canvas<br><strong>Đế:</strong> Cao su &nbsp; &nbsp;&nbsp;<br><strong>Thiết kế:</strong></p><p>&nbsp; &nbsp;Kiểu dáng giày cổ cao đặc trưng với form ôm sát cổ chân<br>&nbsp; &nbsp;Hai khoen tròn nhỏ ở bên hông giúp chân thông thoáng<br>&nbsp; &nbsp;Thiết kế đế giữa trong suốt với tone màu hơi mờ độc đáo<br>&nbsp; &nbsp;Đế cao su bền chắc, có độ bám và ma sát cao<br>&nbsp; &nbsp;Gam màu hiện đại, dễ dàng phối với nhiều trang phục và phụ kiện<br>&nbsp;</p>",
+  "price": 2300000,
+  "brand": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587296c29fae0f792e92525"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587296c29fae0f792e92526"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587296c29fae0f792e92527"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587296c29fae0f792e92528"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587296c29fae0f792e92529"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587296c29fae0f792e9252a"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 3,
+      "_id": {
+        "$oid": "6587296c29fae0f792e9252b"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356810/shoes/jmyfybkjlscv97rbipcv.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356810/shoes/qyampldj2dbj7yqtsdve.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356809/shoes/vuomyplbbnitus4cxmmh.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356810/shoes/m4tttjd3leduekeumbfa.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T18:39:40.449Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T18:39:40.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658731e529fae0f792e944ef"
+  },
+  "productName": "GIÀY THỜI TRANG UNISEX NEW BALANCE 574 / Familiar Ground - Xanh Dương",
+  "description": "<p><i>\"The most New Balance shoe ever\"</i> - Câu nói này nói lên tất cả, phải không? Nhưng thực tế, điều này chỉ là một phần của câu chuyện. <i><strong>New Balance 574</strong></i> có lẽ là biểu tượng không ngờ của chúng tôi. 574 được thiết kế để trở thành một đôi giày đáng tin cậy, có khả năng làm nhiều điều khác nhau tốt hơn thay vì chỉ là một nền tảng cho công nghệ đột phá hoặc để trưng bày vật liệu cao cấp. Sự đa dụng khiêm tốn này chính là điều đã đưa 574 vào hàng ngũ của những tác phẩm vĩ đại nhất mọi thời đại.</p><p><strong>THÔNG SỐ</strong><br>- Đệm EVA nhẹ trong đế giữa và gót chân tăng cường độ thoải mái.<br>- Cấu trúc đệm ENCAP kết hợp giữa lớp bọt nhẹ và viền bằng polyurethane, mang lại sự hỗ trợ suốt cả ngày.<br>- Phần trên bằng da lộn và vải lưới.<br>- Vùng vamp, gót chân và lưỡi giày làm từ 100% polyester tái chế.<br>- Đế giữa sử dụng khoảng 3% thành phần dựa trên nguồn tài nguyên sinh học<br>- Đế ngoài bằng cao su, với 5% cao su tái chế.<br>- Mã sản phẩm: U574FDG</p>",
+  "price": 2090000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f0"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f1"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f2"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f3"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f4"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f5"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658731e529fae0f792e944f6"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703358979/shoes/kxojv2cc35upo62ikywx.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703358979/shoes/ypxdd7vkwefjpy17plag.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703358979/shoes/ludygqsqsjztbi7iqyvu.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703358979/shoes/k2cuas99yumfos1nsu1x.webp"
+  ],
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "65842b728047f41f078c08ef"
+      },
+      "comment": "Giày đép quá chời quá đất àaaa",
+      "dateCMT": {
+        "$date": "2024-04-25T07:19:09.820Z"
+      },
+      "feedback_Image": [
+        "https://res.cloudinary.com/dk6lpssqj/image/upload/v1714034596/shoes/yh1fpgqbgxgzcs2xribf.jpg",
+        "https://res.cloudinary.com/dk6lpssqj/image/upload/v1714034597/shoes/xdbiow4vndgr9ehofjvs.jpg"
+      ],
+      "_id": {
+        "$oid": "662a0409d45d710980c2bda4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-23T19:15:49.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T08:43:18.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587322e29fae0f792e945b2"
+  },
+  "productName": "GIÀY THỜI TRANG NỮ NEW BALANCE 574+ / SUNDAY MORNING - NÂU",
+  "description": "<p><i><strong>Sản phẩm 574+</strong></i> được thiết kế để trở thành một đôi giày đáng tin cậy, có thể làm rất nhiều việc khác nhau một cách xuất sắc. Những đặc điểm độc đáo và dễ dàng sử dụng của 574 đã nhanh chóng biến nó thành một món đồ không thể thiếu trong tủ quần áo của mọi người trên khắp thế giới. Phiên bản 574+ mang đến một sự đột phá hiện đại đối với thiết kế classic của 574. Sự bổ sung của đế giày EVA hai phần với một phần ENCAP thu nhỏ tạo nên một sự tôn lên tinh tế. Tỷ lệ đế giữa được kết hợp với đế ngoài có họa tiết sóng, lấy cảm hứng từ mẫu giày Trackster ban đầu.</p><p><strong>THÔNG SỐ</strong><br>Đế giữa sử dụng công nghệ ENCAP, kết hợp bọt xốp nhẹ và lớp viền polyurethane bền, mang lại sự hỗ trợ suốt cả ngày.<br>Sản phẩm được thiết kế với đế giữa EVA hai phần, tạo nên sự thoải mái và độ bền đáng kinh ngạc.<br>Với phần trên làm từ lưới kết hợp với đèn suede, sản phẩm mang đến sự thoải mái và phong cách độc đáo.<br>Với độ cao đế giữa 37mm, đôi giày đảm bảo sự thoải mái và hỗ trợ trong mọi bước chạy.<br>Trọng lượng: 307.4 gram (10.8 oz), đôi giày này nhẹ nhàng và thoải mái trong suốt cả ngày.<br>Mã sản phẩm: WL574ZSM</p>",
+  "price": 2090000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b3"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b4"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b5"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b6"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b7"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b8"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6587322e29fae0f792e945b9"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359053/shoes/tczzdgs6rzsr4rfhc7oy.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359053/shoes/hqepalylsngchtogjxfe.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359053/shoes/g2mbglryzlmx7h63pzuf.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359052/shoes/lf0vdyeohdigcemh62f7.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:17:02.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:17:02.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658732c329fae0f792e94730"
+  },
+  "productName": "GIÀY THỜI TRANG NAM NEW BALANCE XC-72 / NEIGHBOURHOOD - ĐEN",
+  "description": "<p><i><strong>GIÀY THỜI TRANG NAM NEW BALANCE XC-72 / NEIGHBOURHOOD</strong></i><br><i>New Balance XC-72</i> đẩy nguồn cảm hứng cổ điển lên tầm cao mới với kiểu dáng độc đáo lạ mắt, bẻ cong mọi quan điểm thẩm mỹ khi kiểu dáng giày được lấy ý tưởng từ mẫu xe ô tô những năm 1970. Đế ngoài được thiết kế đặc biệt với góc cạnh, hỗ trợ lực kéo tối ưu, mang lại cho bạn những trải nghiệm tuyệt vời chưa từng có. Đôi giày chạy bộ của mọi thời đại, mạnh mẽ, XC-72 hiện thực hóa giấc mơ của bạn.<br><strong>THÔNG SỐ</strong></p><p>Đế ngoài được thiết kế thành 2 mảng riêng biệt, thiết kế ‘bộ kẹp’ của XC15 và kiểu đính đá của 375<br>CR sở hữu lớp đế ngoài xương cá của 620<br>Phần trên có lớp phủ da lộn không mạ crôm. Da không chứa crom, không sử dụng crom trong quá trình thuộc da, có thể gây hại cho con người và môi trường khi da bị thải bỏ.<br>Kiểu dáng lấy cảm hứng từ mẫu xe ô tô trong những năm 1970<br>Mã sản phẩm: UXC72NB</p>",
+  "price": 2287000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658732c329fae0f792e94731"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658732c329fae0f792e94732"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "658732c329fae0f792e94733"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658732c329fae0f792e94734"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658732c329fae0f792e94735"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658732c329fae0f792e94736"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658732c329fae0f792e94737"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359201/shoes/kmjpyor8jea3nfc9mxj6.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359201/shoes/c11u6t827zspoagsnvaw.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359201/shoes/boipxa6riprkiqklzyan.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359201/shoes/ipetzvt0pzzk4olkai9y.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:19:31.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:19:31.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587332229fae0f792e9481a"
+  },
+  "productName": "GIÀY THỂ THAO NAM NEW BALANCE 650R / SEASONAL - TRẮNG",
+  "description": "<p><i><strong>GIÀY THỂ THAO NAM NEW BALANCE 650R / SEASONAL</strong></i><br>Với kiểu dáng mới của 650, New Balance xin giới thiệu một phiên bản hi-top đối trọng với 550 cực kỳ phổ biến. Trong khi thiết kế trên sân của những năm 1980 kết hợp các tính năng hỗ trợ, thì 650 mang đến vẻ ngoài hoàn hảo. Phần trên bằng da và cổ giày có đệm giúp giảm cọ xát gây khó chịu khi mang.<br><strong>THÔNG SỐ</strong></p><p>Phần trên bằng da<br>Cổ giày có đệm<br>Lớp phủ da đục lỗ<br>Đế giày cao su<br>Trọng lượng: 521 gam (18,4 oz)<br>Mã sản phẩm: BB650RWI</p>",
+  "price": 2910000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587332229fae0f792e9481b"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587332229fae0f792e9481c"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6587332229fae0f792e9481d"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587332229fae0f792e9481e"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587332229fae0f792e9481f"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587332229fae0f792e94820"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6587332229fae0f792e94821"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359296/shoes/eyswfoh5y4bn1uqeyjpf.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359296/shoes/hof3cdffhskqowtr1qpk.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359296/shoes/dewfonesmgwkbla1xjqi.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359297/shoes/wkljk1p6nfet4khqxdyp.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:21:06.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:21:06.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658733a929fae0f792e949ca"
+  },
+  "productName": "GIÀY CHẠY BỘ NỮ NEW BALANCE FRESH FOAM X 1080V12 - VÀNG",
+  "description": "<p><i><strong>New Balance 1080 v12</strong></i> dành cho nữ là một đôi giày chạy bộ trung tính và phù hợp để tối ưu những cuộc chạy bộ của bạn. Đệm Fresh Foam mang lại cảm giác mềm mại và nhẹ nhàng, cùng lót giày Ortholite mang lại sự thoải mái hơn khi chạy . Bàn chân của bạn sẽ được giữ cố định và được hỗ trợ thêm bởi phần gót chân.<br>Phần trên được làm bằng vật liệu Hypoknit có độ uốn cong cao cấp. Chất liệu này tạo cảm giác rất mềm mại, thiết kế gia cố quanh gót chân và giữa bàn chân để tạo cảm giác vừa vặn chắc chắn.<br>Đế chống mài mòn và đế giữa được làm rộng hơn một chút dưới bàn chân sau và bàn chân trước để xử lý lực tác động tốt hơn. Phần giữa bàn chân và mũi giày hẹp hơn so với phần còn lại để cung cấp nhiều độ uốn để đảm bảo bàn chân bạn luôn thư giãn, êm ái.<br><strong>THÔNG SỐ</strong></p><p>Giày chạy bộ trung tính<br>Đệm Fresh Foam giúp mỗi bước bạn đi êm ái và thoải mái<br>Thiết kế cổ giày giúp cố định chân của bạn<br>Độ lệch của gót chân: 8 mm<br>Trọng lượng: 232 gam<br>Mã sản phẩm: W108012H<br>&nbsp;</p>",
+  "price": 2910000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658733a929fae0f792e949cb"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658733a929fae0f792e949cc"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "658733a929fae0f792e949cd"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658733a929fae0f792e949ce"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658733a929fae0f792e949cf"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658733a929fae0f792e949d0"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658733a929fae0f792e949d1"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359429/shoes/ic8chgvdf8kpr4bcsrkl.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359428/shoes/cqbr7xfyda7p25jlwvst.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359431/shoes/r7fqakwcvsq6kbfzhwuw.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359431/shoes/i0qvx6ufungpcckqxmh7.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:23:21.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:23:21.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587356c29fae0f792e94f91"
+  },
+  "productName": "GIÀY THỂ THAO NAM NEW BALANCE FRESH FOAM X 880V13 - XÁM",
+  "description": "<p><i><strong>Giày Chạy Bộ Nam New Balance Fresh Foam X 880V13</strong></i><br>Đánh bại mọi thử thách thể thao với sự thoải mái và phong cách cùng với giày thể thao nam New Balance Fresh Foam X 880V13. Đây không chỉ là một đôi giày, mà là một tác phẩm nghệ thuật kết hợp giữa hiệu suất ưu việt và thiết kế thời trang.</p><p><strong>THÔNG SỐ</strong><br>Đế giữa Fresh Foam X với khoảng 3% chất liệu từ nguồn tài nguyên tái tạo mang lại trải nghiệm Fresh Foam mềm mại đỉnh cao cho sự thoải mái tuyệt vời<br>Lớp trên tổng hợp/vải lưới.<br>Lớp trên không đường may giúp có sự vừa vặn và cảm giác mượt mà.<br>Đế ngoài cao su NDurance giúp tăng độ bền ở các khu vực chịu áp lực cao để đôi giày phục vụ lâu hơn.<br>Dây buộc có thể điều chỉnh để đảm bảo vừa vặn an toàn.<br>Mã sản phẩm: M880X13<br>&nbsp;</p>",
+  "price": 2990000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc3093ca8108385791ef8"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f92"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f93"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f94"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f95"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f96"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f97"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "6587356c29fae0f792e94f98"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359882/shoes/mpjivvkjsu5mtkqgirtf.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359881/shoes/vslo8thb3glqqewxqjx7.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359882/shoes/bi8ajuctdp7xakb98dev.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359882/shoes/uin1syauabcpmevcuvuv.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:30:52.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:30:52.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658735ed29fae0f792e950e2"
+  },
+  "productName": "GIÀY CHẠY BỘ NỮ NEW BALANCE FRESH FOAM X MORE V4",
+  "description": "<p><i><strong>Loại Fresh Foam</strong></i> được sử dụng nhiều nhất trong bất kỳ loại giày nào. Dòng sản phẩm mới nhất của New Balance là phiên bản sử dụng nhiều Fresh Foam X với thiết kế phân bổ dọc theo chiều dài của giày, mang lại trải nghiệm êm ái nhưng ổn định dưới chân. Đế ngoài áp dụng vị trí chiến lược của các vùng đệm và các vùng uốn cong thúc đẩy sải chân tự nhiên. Bên cạnh đó, phần trên sử dụng chất liệu thoáng khí, hạn chế tối đa cảm giác hầm bí khi mang giày.</p><p><strong>THÔNG SỐ</strong><br>Bọt đế giữa Fresh Foam X với khoảng 3% thành phần sinh học mang lại trải nghiệm Fresh Foam êm ái nhất và tạo sự thoải mái đáng kinh ngạc.<br>Thiết kế lưới ở mặt trên thoáng khí<br>Dữ liệu thông báo vị trí đế ngoài<br>Logo \"N\" được in 3D<br>Đế giữa + đế ngoài dày 34 mm<br>Trọng lượng: 237 gam (8,4 oz)<br>Mã sản phẩm: WMORCW4<br>&nbsp;</p>",
+  "price": 2129000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 7,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e3"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 4,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e4"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e5"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e6"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e7"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e8"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "658735ed29fae0f792e950e9"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360011/shoes/mk47gwdkaytca2xyfwvb.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360011/shoes/eth2xfvpr6m0si1zoixa.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360011/shoes/w795tk0cgze5angwvxyf.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360011/shoes/sqsfvypk5qfhxzohmwyn.webp"
+  ],
+  "totalRatings": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-12-23T19:33:01.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T19:33:01.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587363b29fae0f792e951b1"
+  },
+  "productName": "GIÀY CHẠY BỘ NỮ NEW BALANCE ROAVV1 - XÁM",
+  "description": "<p>Dù bạn là người mới bắt đầu hay là người chuyên nghiệp, <i><strong>Giày Chạy Bộ Nữ New Balance Roavv1 / Wroavv1</strong></i> là sự lựa chọn tuyệt vời để đồng hành cùng bạn trên mọi hành trình. Với đế giữa Fresh Foam được chế tạo đặc biệt, đôi giày mang đến cho bạn một trải nghiệm chạy bộ nhẹ nhàng và êm ái đến không ngờ. Đôi giày này sẽ trở thành người bạn đồng hành lý tưởng cho bạn trong mọi hoạt động thể thao, từ chạy bộ đến tập luyện cường độ cao.<br><strong>THÔNG SỐ</strong></p><p>Lớp đệm Fresh Foam êm ái như nhung, hấp thụ lực sốc hiệu quả, bảo vệ đôi chân của bạn khỏi những tác động không mong muốn<br>Cấu trúc bootie upper ôm sát bàn chân, mang lại cảm giác vừa vặn, hỗ trợ tối ưu cho từng sải bước<br>Thân giày được làm từ chất liệu tổng hợp và lưới thoáng khí, giúp đôi chân của bạn luôn khô thoáng và dễ chịu trong suốt quá trình luyện tập<br>Công nghệ đế cao su NDurance mang lại độ bền cao ở những khu vực chịu nhiều áp lực, giúp kéo dài tuổi thọ của đôi giày<br>Thiết kế Ultra Heel ôm sát phần gót chân, mang lại sự ổn định và hỗ trợ tối đa cho vùng mắt cá chân.<br>Dây giày có thể điều chỉnh, giúp bạn có sự ôm vừa vặn và thoải mái nhất cho chân<br>Trọng Lượng Nhẹ: Với chỉ 212.4 gram, đôi giày này là đối tác lý tưởng cho mọi hoạt động<br>Mã sản phẩm: WROAVPC1</p>",
+  "price": 2047000,
+  "brand": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "category": {
+    "$oid": "657fc4a93ca8108385792817"
+  },
+  "quantity": [
+    {
+      "size": 36,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "662b44921ead973c9886d757"
+      }
+    },
+    {
+      "size": 37,
+      "numberOfSize": 0,
+      "_id": {
+        "$oid": "662b44921ead973c9886d758"
+      }
+    },
+    {
+      "size": 38,
+      "numberOfSize": 12,
+      "_id": {
+        "$oid": "662b44921ead973c9886d759"
+      }
+    },
+    {
+      "size": 39,
+      "numberOfSize": 8,
+      "_id": {
+        "$oid": "662b44921ead973c9886d75a"
+      }
+    },
+    {
+      "size": 40,
+      "numberOfSize": 5,
+      "_id": {
+        "$oid": "662b44921ead973c9886d75b"
+      }
+    },
+    {
+      "size": 41,
+      "numberOfSize": 2,
+      "_id": {
+        "$oid": "662b44921ead973c9886d75c"
+      }
+    },
+    {
+      "size": 42,
+      "numberOfSize": 1,
+      "_id": {
+        "$oid": "662b44921ead973c9886d75d"
+      }
+    }
+  ],
+  "images": [
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360089/shoes/bowoagfxuslnjzkawhqu.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360089/shoes/meyqwuwlasl81dphjdsq.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360088/shoes/bsv070yotf1r9kfyqqlf.webp",
+    "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360089/shoes/e2mn1zcgzpepbn1qute6.webp"
+  ],
+  "totalRatings": 3,
+  "ratings": [
+    {
+      "star": 1,
+      "postedBy": {
+        "$oid": "65842b728047f41f078c08ef"
+      },
+      "comment": "Rất đẹp. Nên mua nha mọi người",
+      "dateCMT": {
+        "$date": "2023-12-24T01:26:15.028Z"
+      },
+      "feedback_Image": [
+        "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703393429/shoes/db8zud2ne23fxchxipsg.webp",
+        "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703393429/shoes/ragomzing0mq7xqyzfy9.webp",
+        "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703393429/shoes/jrnrly2kuibrzzlg9rnw.webp"
+      ],
+      "_id": {
+        "$oid": "6587b875e1fff109bbb8a003"
+      }
+    },
+    {
+      "star": 5,
+      "postedBy": {
+        "$oid": "6586c326ce6df5ea05110579"
+      },
+      "comment": "Quá là tuyệt vời",
+      "dateCMT": {
+        "$date": "2023-12-24T17:13:57.098Z"
+      },
+      "feedback_Image": [],
+      "_id": {
+        "$oid": "6588676e6a52abddd08a36e9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-23T19:34:19.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T06:07:14.904Z"
+  },
+  "__v": 0
+}]

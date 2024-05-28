@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65842b728047f41f078c08ef"
+  },
+  "username": "Hi Hi",
+  "email": "thinhbo0319@gmail.com",
+  "password": "$2b$10$NaswSLt2VgDen5/g6QPOUe/L4zAST9WnhJ2Izp5CwVqdTQ3i8SKMK",
+  "admin": true,
+  "Address": [
+    "ádoisajdjsaodjs"
+  ],
+  "Coupon": [
+    {
+      "$oid": "65845d1ec2e8d1059191b59a"
+    },
+    {
+      "$oid": "65845d1ec2e8d1059191b59a"
+    },
+    {
+      "$oid": "65845d30c2e8d1059191b5e1"
+    },
+    {
+      "$oid": "658531434ecdad464da491c1"
+    },
+    {
+      "$oid": "6585306b4ecdad464da489fc"
+    },
+    {
+      "$oid": "65846b399dfe9589f6ff3249"
+    },
+    {
+      "$oid": "65846b459dfe9589f6ff327b"
+    },
+    {
+      "$oid": "6587b504e1fff109bbb87d2a"
+    },
+    {
+      "$oid": "6622c020908bf2ca59cf14eb"
+    },
+    {
+      "$oid": "6622c02d908bf2ca59cf1bbd"
+    },
+    {
+      "$oid": "662b459f1ead973c988a6fcc"
+    }
+  ],
+  "Favorites": [
+    {
+      "$oid": "6587363b29fae0f792e951b1"
+    },
+    {
+      "$oid": "658735ed29fae0f792e950e2"
+    }
+  ],
+  "Cart": [
+    {
+      "product": {
+        "$oid": "6587363b29fae0f792e951b1"
+      },
+      "size": 37,
+      "count": 1,
+      "price": 2047000,
+      "img": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360089/shoes/bowoagfxuslnjzkawhqu.webp",
+      "name": "GIÀY CHẠY BỘ NỮ NEW BALANCE ROAVV1 - XÁM",
+      "_id": {
+        "$oid": "66290bb950821e8684503883"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6587363b29fae0f792e951b1"
+      },
+      "size": 40,
+      "count": 1,
+      "price": 2047000,
+      "img": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703360089/shoes/bowoagfxuslnjzkawhqu.webp",
+      "name": "GIÀY CHẠY BỘ NỮ NEW BALANCE ROAVV1 - XÁM",
+      "_id": {
+        "$oid": "66290bbd50821e8684503c1e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6586d3695deceb560bdc49d1"
+      },
+      "size": 41,
+      "count": 1,
+      "price": 1790000,
+      "img": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703334788/shoes/t2tdavzadcxckhshyui6.jpg",
+      "name": "GIÀY ADIDAS TRACEFINDER TRAIL NAM - ĐEN",
+      "_id": {
+        "$oid": "662a1714e0e9fef4377a2183"
+      }
+    },
+    {
+      "product": {
+        "$oid": "658733a929fae0f792e949ca"
+      },
+      "size": 41,
+      "count": 1,
+      "price": 2910000,
+      "img": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703359429/shoes/ic8chgvdf8kpr4bcsrkl.webp",
+      "name": "GIÀY CHẠY BỘ NỮ NEW BALANCE FRESH FOAM X 1080V12 - VÀNG",
+      "_id": {
+        "$oid": "662a4b90022547e1cba25665"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6587279829fae0f792e92066"
+      },
+      "size": 37,
+      "count": 2,
+      "price": 2500000,
+      "img": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703356342/shoes/psuyiibcwtzor550l3kc.webp",
+      "name": "GIÀY SNEAKERS UNISEX CỔ CAO RUN STAR LEGACY CX",
+      "_id": {
+        "$oid": "662a760998e05bd0119f22f7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-21T12:11:30.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T06:11:49.376Z"
+  },
+  "__v": 2,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ODQyYjcyODA0N2Y0MWYwNzhjMDhlZiIsImFkbWluIjp0cnVlLCJpYXQiOjE3MTQxMTExNzYsImV4cCI6MTc0NTY0NzE3Nn0.I9id50BrsNnarD0FC8WZ05OIhIe6kcMXkF6X5knic2U",
+  "Avatar": "https://res.cloudinary.com/dk6lpssqj/image/upload/v1703160729/shoes/wdsx1zewnxj02jfw4ws5.jpg",
+  "Date": {
+    "$date": "2020-02-18T17:00:00.000Z"
+  },
+  "phoneNumber": "123123"
+}]

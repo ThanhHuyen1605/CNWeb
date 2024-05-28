@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "657fc1473ca8108385791676"
+  },
+  "brandName": "Adidas",
+  "createdAt": {
+    "$date": "2023-12-18T03:49:27.772Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T03:49:27.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc14c3ca810838579168c"
+  },
+  "brandName": "Nike",
+  "createdAt": {
+    "$date": "2023-12-18T03:49:32.882Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T03:49:32.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc16f3ca8108385791713"
+  },
+  "brandName": "Converse",
+  "createdAt": {
+    "$date": "2023-12-18T03:50:07.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T03:50:07.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657fc1783ca8108385791738"
+  },
+  "brandName": "New Balance",
+  "createdAt": {
+    "$date": "2023-12-18T03:50:16.691Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T03:50:16.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6586fe6a61d90ebc17a40e14"
+  },
+  "brandName": "Charles & Keith",
+  "createdAt": {
+    "$date": "2023-12-23T15:36:10.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T15:36:10.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65870ba629fae0f792e8a714"
+  },
+  "brandName": "Puma",
+  "createdAt": {
+    "$date": "2023-12-23T16:32:38.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T16:32:38.190Z"
+  },
+  "__v": 0
+}]

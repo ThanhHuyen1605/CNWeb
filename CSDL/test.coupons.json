@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6622c020908bf2ca59cf14eb"
+  },
+  "name": "VOUCHER GIẢM 20%",
+  "discount": 20,
+  "exclusive": 10000000,
+  "expiry": {
+    "$date": "2024-05-20T19:04:00.658Z"
+  },
+  "createdAt": {
+    "$date": "2024-04-19T19:04:00.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T19:04:00.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6622c02d908bf2ca59cf1bbd"
+  },
+  "name": "VOUCHER GIẢM 15%",
+  "discount": 15,
+  "exclusive": 5000000,
+  "expiry": {
+    "$date": "2024-05-20T19:04:13.265Z"
+  },
+  "createdAt": {
+    "$date": "2024-04-19T19:04:13.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T19:04:13.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b459f1ead973c988a6fcc"
+  },
+  "name": "GIẢM TIỀN GIÀY",
+  "discount": 15,
+  "exclusive": 2000000,
+  "expiry": {
+    "$date": "2024-04-30T06:11:43.472Z"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T06:11:43.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T06:11:43.476Z"
+  },
+  "__v": 0
+}]
